@@ -11,7 +11,7 @@
       <entry name="!?*.groovy" />
       <entry name="!?*.java" />
     </wildcardResourcePatterns>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="11" />
   </component>
   <component name="CopyrightManager" default="" />
   <component name="DependencyValidationManager">
@@ -30,7 +30,6 @@
             <option value="$PROJECT_DIR$" />
           </set>
         </option>
-        <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
   </component>
@@ -178,7 +177,7 @@
       <module fileurl="file://$PROJECT_DIR$/intro-to-selenium-hw.test.iml" filepath="$PROJECT_DIR$/intro-to-selenium-hw.test.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8.0_275" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="RemoteRepositoriesConfiguration">
@@ -203,6 +202,68 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraries-with-intellij-classes">
+    <option name="intellijApiContainingLibraries">
+      <list>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="ideaIU" />
+          <option name="groupId" value="com.jetbrains.intellij.idea" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="ideaIU" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="ideaIC" />
+          <option name="groupId" value="com.jetbrains.intellij.idea" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="ideaIC" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="pycharmPY" />
+          <option name="groupId" value="com.jetbrains.intellij.pycharm" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="pycharmPY" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="pycharmPC" />
+          <option name="groupId" value="com.jetbrains.intellij.pycharm" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="pycharmPC" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="clion" />
+          <option name="groupId" value="com.jetbrains.intellij.clion" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="clion" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="riderRD" />
+          <option name="groupId" value="com.jetbrains.intellij.rider" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="riderRD" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="goland" />
+          <option name="groupId" value="com.jetbrains.intellij.goland" />
+        </LibraryCoordinatesState>
+        <LibraryCoordinatesState>
+          <option name="artifactId" value="goland" />
+          <option name="groupId" value="com.jetbrains" />
+        </LibraryCoordinatesState>
+      </list>
+    </option>
   </component>
   <component name="libraryTable">
     <library name="Gradle: aopalliance:aopalliance:1.0">
